@@ -1,0 +1,65 @@
+[
+  {
+    "title": "文豪はしる",
+    "description": "AIであなたの思い通りの小説がかける！",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/79/42/157942d8-e3ef-74a2-4844-981017741e76/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.ainovel",
+    "package": "biz.kazutaka.android.ainovel"
+  },
+  {
+    "title": "小論先生",
+    "description": "キーワードとタイトルだけで小論文を生成！",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/7e/6c/dd7e6cdc-3139-cfb3-ca8d-46cb98003e24/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.aiessay",
+    "package": "biz.kazutaka.android.aiessay"
+  },
+  {
+    "title": "歴史転生",
+    "description": "AIで歴史上の人物に転生して物語を体験！",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/1c/d5/0b1cd5c7-1ee5-661f-3493-5a77374e6a92/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.aihistorygame",
+    "package": "biz.kazutaka.android.aihistorygame"
+  },
+  {
+    "title": "AI先生情報I、共テ標準コードを学ぶ！",
+    "description": "共通テスト「情報I」対策。擬似言語のトレース可視化＋AIチューター。",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/98/be/3b98be01-ef1d-a5f1-0fbd-bfeadd12bcda/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=org.kazutaka.gicode",
+    "package": "org.kazutaka.gicode"
+  },
+  {
+    "title": "駅地図、クイズ形式で学ぶ鉄道路線図",
+    "description": "地図を動かしながらクイズで鉄道駅を覚えられる！",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/1d/60/541d6003-80f5-8466-536a-eb3e6ce6f137/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.trainquiz",
+    "package": "biz.kazutaka.android.trainquiz"
+  },
+  {
+    "title": "無限大陸、冒険の舞台を自分で作る新ストーリー型RPG",
+    "description": "AIで大陸を作り出す新感覚ストーリー型RPG！",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/6f/f9/5d6ff909-65be-663a-fafe-4b96de979d40/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.aicontinental",
+    "package": "biz.kazutaka.android.aicontinental"
+  },
+  {
+    "title": "代参レポート - 墓参り代行の報告書を最速で",
+    "description": "撮影して選ぶだけで、PDF報告書が1分で完成！",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/e8/66/cee8667b-9bb3-a0c3-50fb-230a3e6dd74b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.hakamorireport",
+    "package": "biz.kazutaka.android.hakamorireport"
+  },
+  {
+    "title": "空港地図、クイズで覚える３レターコード",
+    "description": "IATA/ICAO 空港コードを世界地図タップで学習！試験対策の模擬テスト搭載。",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/c3/8b/dec38bd8-4387-be54-091f-34a9623ca445/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.airportCodeQuiz",
+    "package": "biz.kazutaka.airportCodeQuiz"
+  },
+  {
+    "title": "物件査定、気になる不動産を簡単見積もり",
+    "description": "実際に売れた価格から相場を知ることができます！",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/4c/f4/f14cf49d-466c-f8b7-21ab-05051286b4a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.property_price_mirror",
+    "package": "biz.kazutaka.property_price_mirror"
+  }
+]
