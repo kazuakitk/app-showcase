@@ -61,5 +61,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/4c/f4/f14cf49d-466c-f8b7-21ab-05051286b4a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.property_price_mirror",
     "package": "biz.kazutaka.property_price_mirror"
+  },
+  {
+    "title": "道路王、地図で覚える日本の道",
+    "description": "国道・高速・道の駅・街道まで11ジャンルのクイズと日本一周クエスト！",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/20/67/8b2067fa-cafe-4d25-7ae3-a891e6b42221/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.road_quiz",
+    "package": "biz.kazutaka.road_quiz"
   }
 ]
