@@ -68,5 +68,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/20/67/8b2067fa-cafe-4d25-7ae3-a891e6b42221/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.road_quiz",
     "package": "biz.kazutaka.road_quiz"
+  },
+  {
+    "title": "勉強カレンダー、簡単登録！進捗が分かる、やる気継続",
+    "description": "予定・時間割・ToDo・勉強時間の集計がひとつに！",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/a2/8a/20a28a90-b185-5699-fabe-eab7d5a76c47/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.studycal",
+    "package": "biz.kazutaka.studycal"
   }
 ]
