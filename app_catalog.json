@@ -1,0 +1,1334 @@
+{
+ "version": 1,
+ "generated_at": "2026-10-10T16:41:08+00:00",
+ "genres": [
+  {
+   "id": "manabu",
+   "title": {
+    "ja": "学ぶ・資格",
+    "en": "Learn & Exams"
+   }
+  },
+  {
+   "id": "kaku",
+   "title": {
+    "ja": "書く・つくる",
+    "en": "Write & Create"
+   }
+  },
+  {
+   "id": "asobu",
+   "title": {
+    "ja": "遊ぶ・地図クイズ",
+    "en": "Play & Map Quizzes"
+   }
+  },
+  {
+   "id": "kurashi",
+   "title": {
+    "ja": "暮らし・仕事",
+    "en": "Life & Work"
+   }
+  }
+ ],
+ "apps": [
+  {
+   "id": "studycal",
+   "genre": "manabu",
+   "title": {
+    "ja": "勉強カレンダー",
+    "en": "Study Calendar"
+   },
+   "subtitle": {
+    "ja": "予定・時間割・勉強時間がひとつに",
+    "en": "Plans, timetable and study log in one"
+   },
+   "segments": [
+    "student",
+    "adult_learner"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6785962096",
+    "store_url": "https://apps.apple.com/jp/app/id6785962096",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/7f/6f/e77f6f87-3377-eba2-829e-e1a7e5576955/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "rating": 4.8,
+    "rating_count": 4
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.studycal",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.studycal",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/7f/6f/e77f6f87-3377-eba2-829e-e1a7e5576955/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "gicode",
+   "genre": "manabu",
+   "title": {
+    "ja": "AI先生情報I",
+    "en": "GiCode"
+   },
+   "subtitle": {
+    "ja": "共通テスト「情報I」の擬似言語を学ぶ",
+    "en": "Learn exam pseudocode for Informatics I"
+   },
+   "segments": [
+    "student"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6770568203",
+    "store_url": "https://apps.apple.com/jp/app/id6770568203",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/3f/b4/d33fb4a0-8b33-0638-7666-6dec5f99f049/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": true,
+    "package": "org.kazutaka.gicode",
+    "store_url": "https://play.google.com/store/apps/details?id=org.kazutaka.gicode",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/3f/b4/d33fb4a0-8b33-0638-7666-6dec5f99f049/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "takken",
+   "genre": "manabu",
+   "title": {
+    "ja": "宅建AI 2026",
+    "en": "Takken AI 2026"
+   },
+   "subtitle": {
+    "ja": "宅建試験の「なぜ？」をAIが解説",
+    "en": "AI explains the why for the Takken exam"
+   },
+   "segments": [
+    "adult_learner",
+    "real_estate"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6793407772",
+    "store_url": "https://apps.apple.com/jp/app/id6793407772",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/24/5d/df245dc7-1aae-956e-f95b-4602d85ace32/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "touhan",
+   "genre": "manabu",
+   "title": {
+    "ja": "登録販売者AI 2026",
+    "en": "Touhan AI 2026"
+   },
+   "subtitle": {
+    "ja": "登録販売者試験の独学サポート",
+    "en": "Self-study support for the Touhan exam"
+   },
+   "segments": [
+    "adult_learner",
+    "health"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6799977998",
+    "store_url": "https://apps.apple.com/jp/app/id6799977998",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/6a/19/5f6a1951-3e69-6a5d-b5da-acc98fd58944/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "ryokogyo_ai",
+   "genre": "manabu",
+   "title": {
+    "ja": "旅行業AI 2026",
+    "en": "Ryokogyo AI 2026"
+   },
+   "subtitle": {
+    "ja": "旅行業務取扱管理者の独学サポート",
+    "en": "Self-study for the travel agency exam"
+   },
+   "segments": [
+    "adult_learner",
+    "travel"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6797151126",
+    "store_url": "https://apps.apple.com/jp/app/id6797151126",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/63/f8/5663f8ec-f61e-1e4b-6e7d-803ee259e639/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "aiword",
+   "genre": "manabu",
+   "title": {
+    "ja": "AI単語帳",
+    "en": "AI Vocab"
+   },
+   "subtitle": {
+    "ja": "AIで作る英単語帳",
+    "en": "AI-generated English vocab"
+   },
+   "segments": [
+    "language"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6461420201",
+    "store_url": "https://apps.apple.com/jp/app/id6461420201",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/12/08/b7120838-ca81-ce70-ceb3-bed85598409e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 4.3,
+    "rating_count": 9
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "aiwordml",
+   "genre": "manabu",
+   "title": {
+    "ja": "AI単語帳（多言語版）",
+    "en": "AI Vocab ML"
+   },
+   "subtitle": {
+    "ja": "多言語対応のAI単語帳",
+    "en": "Multilingual AI vocab"
+   },
+   "segments": [
+    "language"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6462388172",
+    "store_url": "https://apps.apple.com/jp/app/id6462388172",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/d0/a6/82d0a692-835c-7efe-c8f0-3f62554846c4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 4.2,
+    "rating_count": 4
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "aitalk",
+   "genre": "manabu",
+   "title": {
+    "ja": "多言語トーク",
+    "en": "Multilingual Talk"
+   },
+   "subtitle": {
+    "ja": "あなたの言葉を瞬間翻訳",
+    "en": "Instant translation talk"
+   },
+   "segments": [
+    "language",
+    "travel"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6737480120",
+    "store_url": "https://apps.apple.com/jp/app/id6737480120",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/47/48/f74748ee-33a5-6737-9416-1982a13e09f7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 4.9,
+    "rating_count": 7
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "dungeonlang",
+   "genre": "manabu",
+   "title": {
+    "ja": "DungeonLang",
+    "en": "DungeonLang"
+   },
+   "subtitle": {
+    "ja": "AIがあなたに合う問題を生成",
+    "en": "Adaptive practice with AI"
+   },
+   "segments": [
+    "language",
+    "game"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6763732431",
+    "store_url": "https://apps.apple.com/jp/app/id6763732431",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/7f/0a/547f0a77-fff6-1a9a-411e-0888c705da0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "aipickquiz",
+   "genre": "manabu",
+   "title": {
+    "ja": "クイズラボ",
+    "en": "Quiz Lab"
+   },
+   "subtitle": {
+    "ja": "キーワードからクイズを生成",
+    "en": "Quizzes from keywords"
+   },
+   "segments": [
+    "student",
+    "trivia"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6749536746",
+    "store_url": "https://apps.apple.com/jp/app/id6749536746",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/80/7d/b5807d95-56bf-4547-eb02-862e41b47451/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 5.0,
+    "rating_count": 1
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "aidiary",
+   "genre": "manabu",
+   "title": {
+    "ja": "AI日記帳",
+    "en": "AI Diary"
+   },
+   "subtitle": {
+    "ja": "20言語で書ける日記帳",
+    "en": "Journal in 20 languages"
+   },
+   "segments": [
+    "language",
+    "journal"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6475445580",
+    "store_url": "https://apps.apple.com/jp/app/id6475445580",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/1e/34/681e34b6-1784-b66a-0a6f-9325adb2b806/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 4.7,
+    "rating_count": 11
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "ainovel",
+   "genre": "kaku",
+   "title": {
+    "ja": "文豪はしる",
+    "en": "AI Novel"
+   },
+   "subtitle": {
+    "ja": "AIと長編小説を書く",
+    "en": "Write novels with AI"
+   },
+   "segments": [
+    "creator"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6467877945",
+    "store_url": "https://apps.apple.com/jp/app/id6467877945",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/bb/a3/69bba3b5-8c16-41ab-5e7a-07dad0caf925/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 4.4,
+    "rating_count": 156
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.android.ainovel",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.ainovel",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/bb/a3/69bba3b5-8c16-41ab-5e7a-07dad0caf925/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "aiessay",
+   "genre": "kaku",
+   "title": {
+    "ja": "小論先生",
+    "en": "AI Essay Teacher"
+   },
+   "subtitle": {
+    "ja": "ご希望のテーマで小論文を作成",
+    "en": "Essays on your topic"
+   },
+   "segments": [
+    "student",
+    "job_hunting"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6466455974",
+    "store_url": "https://apps.apple.com/jp/app/id6466455974",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/de/5c/97de5c53-8014-c13a-1782-4c8f128b4d00/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 4.7,
+    "rating_count": 277
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.android.aiessay",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.aiessay",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/de/5c/97de5c53-8014-c13a-1782-4c8f128b4d00/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "aihistorygame",
+   "genre": "kaku",
+   "title": {
+    "ja": "歴史転生",
+    "en": "AI History Game"
+   },
+   "subtitle": {
+    "ja": "AIで歴史上の人物に転生",
+    "en": "Roleplay as historical figures"
+   },
+   "segments": [
+    "creator",
+    "history"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6742843491",
+    "store_url": "https://apps.apple.com/jp/app/id6742843491",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e4/d0/2ee4d053-9b9b-74dd-710a-45ab4b2dc28f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 4.7,
+    "rating_count": 22
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.android.aihistorygame",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.aihistorygame",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/e4/d0/2ee4d053-9b9b-74dd-710a-45ab4b2dc28f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "aicontinental",
+   "genre": "kaku",
+   "title": {
+    "ja": "無限大陸",
+    "en": "Infinity Continental"
+   },
+   "subtitle": {
+    "ja": "自分で作るストーリー型RPG",
+    "en": "Build your own story RPG"
+   },
+   "segments": [
+    "creator",
+    "game"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6745148207",
+    "store_url": "https://apps.apple.com/jp/app/id6745148207",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/e9/dc/cbe9dc14-95ba-895a-8e76-4ce502f0cd20/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 4.3,
+    "rating_count": 49
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.android.aicontinental",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.aicontinental",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/e9/dc/cbe9dc14-95ba-895a-8e76-4ce502f0cd20/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "aicounseling",
+   "genre": "kaku",
+   "title": {
+    "ja": "推しメーカー",
+    "en": "Oshi Maker"
+   },
+   "subtitle": {
+    "ja": "貴方の推しをAIで再現",
+    "en": "Recreate your oshi with AI"
+   },
+   "segments": [
+    "creator",
+    "oshi"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6471916677",
+    "store_url": "https://apps.apple.com/jp/app/id6471916677",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/1e/6f/d31e6f69-2dac-87b7-ac4d-6827d6389aea/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 4.8,
+    "rating_count": 31
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "aibusiness",
+   "genre": "kaku",
+   "title": {
+    "ja": "代筆ドール",
+    "en": "Ghost Writer Doll"
+   },
+   "subtitle": {
+    "ja": "お望みのお手紙を代筆",
+    "en": "AI writes letters for you"
+   },
+   "segments": [
+    "adult",
+    "small_business"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6465687786",
+    "store_url": "https://apps.apple.com/jp/app/id6465687786",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/ee/6f/7fee6f76-f650-dee5-8ba6-460205176a9a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "aicatchcopy",
+   "genre": "kaku",
+   "title": {
+    "ja": "PRメーカー",
+    "en": "PR Maker"
+   },
+   "subtitle": {
+    "ja": "あなただけの宣伝担当",
+    "en": "Your personal PR writer"
+   },
+   "segments": [
+    "small_business"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6738503266",
+    "store_url": "https://apps.apple.com/jp/app/id6738503266",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/9b/c8/4b9bc884-ace7-0070-783b-9947229bf683/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 5.0,
+    "rating_count": 3
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "ainote",
+   "genre": "kaku",
+   "title": {
+    "ja": "企画のみかた",
+    "en": "Idea Helper"
+   },
+   "subtitle": {
+    "ja": "AIが企画の悩みを解決",
+    "en": "AI helps your planning"
+   },
+   "segments": [
+    "office_worker"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6470919465",
+    "store_url": "https://apps.apple.com/jp/app/id6470919465",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/60/c5/4660c507-6d7c-12b3-54d3-857a4c1f84b9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "shukatsu",
+   "genre": "kaku",
+   "title": {
+    "ja": "就活のみかた",
+    "en": "Shukatsu Helper"
+   },
+   "subtitle": {
+    "ja": "履歴書作成をAIがサポート",
+    "en": "AI support for job hunting"
+   },
+   "segments": [
+    "job_hunting"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6480042684",
+    "store_url": "https://apps.apple.com/jp/app/id6480042684",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/ac/63/3cac63ce-fbbd-16b6-3ba3-402a528f70fa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 5.0,
+    "rating_count": 1
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "trainquiz",
+   "genre": "asobu",
+   "title": {
+    "ja": "駅地図",
+    "en": "Train Quiz"
+   },
+   "subtitle": {
+    "ja": "クイズ形式で学ぶ鉄道路線図",
+    "en": "Learn train routes by quiz"
+   },
+   "segments": [
+    "map",
+    "rail"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6453123754",
+    "store_url": "https://apps.apple.com/jp/app/id6453123754",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/d7/77/e2d777a5-a503-47b4-0e3f-977ec9f005f8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 4.7,
+    "rating_count": 80
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.android.trainquiz",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.trainquiz",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/d7/77/e2d777a5-a503-47b4-0e3f-977ec9f005f8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "airport_code_quiz",
+   "genre": "asobu",
+   "title": {
+    "ja": "空港地図",
+    "en": "Airport Map"
+   },
+   "subtitle": {
+    "ja": "クイズで覚える3レターコード",
+    "en": "Learn 3-letter airport codes"
+   },
+   "segments": [
+    "map",
+    "travel",
+    "aviation"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6785523641",
+    "store_url": "https://apps.apple.com/jp/app/id6785523641",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/70/5e/a4705e59-8a31-cb42-2261-e5d0efc2c545/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.airportCodeQuiz",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.airportCodeQuiz",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/70/5e/a4705e59-8a31-cb42-2261-e5d0efc2c545/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "road_quiz",
+   "genre": "asobu",
+   "title": {
+    "ja": "道路王",
+    "en": "Road King"
+   },
+   "subtitle": {
+    "ja": "地図で覚える日本の道",
+    "en": "Learn Japan's roads on the map"
+   },
+   "segments": [
+    "map",
+    "drive"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6808960762",
+    "store_url": "https://apps.apple.com/jp/app/id6808960762",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/88/1e/be881ec4-6061-554b-0b80-37cef3627322/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.road_quiz",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.road_quiz",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/88/1e/be881ec4-6061-554b-0b80-37cef3627322/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "mapdequiz",
+   "genre": "asobu",
+   "title": {
+    "ja": "地図ゲーム",
+    "en": "Map De Quiz"
+   },
+   "subtitle": {
+    "ja": "地図で学ぼうマップでクイズ",
+    "en": "Geography quiz on the map"
+   },
+   "segments": [
+    "map",
+    "kids"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6450009191",
+    "store_url": "https://apps.apple.com/jp/app/id6450009191",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/90/cb/ee90cb64-255e-f39b-9d8a-2b7f6c4b0b94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 4.3,
+    "rating_count": 6
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "jphotspring",
+   "genre": "asobu",
+   "title": {
+    "ja": "クイズ日本の温泉",
+    "en": "Japan Hot Springs Quiz"
+   },
+   "subtitle": {
+    "ja": "温泉クイズで日本を知る",
+    "en": "Discover Japan via onsen"
+   },
+   "segments": [
+    "travel",
+    "trivia"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6451390025",
+    "store_url": "https://apps.apple.com/jp/app/id6451390025",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/c7/f5/ebc7f53b-d7c2-2c40-b38d-4faaf1f59034/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 4.9,
+    "rating_count": 7
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "receiptorganizer",
+   "genre": "kurashi",
+   "title": {
+    "ja": "医療レシート",
+    "en": "Medical Receipts"
+   },
+   "subtitle": {
+    "ja": "医療費控除・確定申告をサポート",
+    "en": "Medical receipts for tax filing"
+   },
+   "segments": [
+    "household",
+    "tax"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6790333959",
+    "store_url": "https://apps.apple.com/jp/app/id6790333959",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/e7/f6/3ce7f652-ee81-cea0-eee1-a6b4f86701a1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 4.0,
+    "rating_count": 1
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "propertypricemirror",
+   "genre": "kurashi",
+   "title": {
+    "ja": "物件査定",
+    "en": "Property Price Mirror"
+   },
+   "subtitle": {
+    "ja": "気になる不動産を簡単見積もり",
+    "en": "Estimate property prices"
+   },
+   "segments": [
+    "real_estate"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6796253918",
+    "store_url": "https://apps.apple.com/jp/app/id6796253918",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/8e/96/0a8e96aa-55e1-94fb-1495-da61dbf3b602/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.property_price_mirror",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.property_price_mirror",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/8e/96/0a8e96aa-55e1-94fb-1495-da61dbf3b602/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "sumai_check",
+   "genre": "kurashi",
+   "title": {
+    "ja": "街くらべ",
+    "en": "Town Compare"
+   },
+   "subtitle": {
+    "ja": "公的データで住みやすさを比較",
+    "en": "Compare towns with public data"
+   },
+   "segments": [
+    "real_estate",
+    "moving"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6804716697",
+    "store_url": "https://apps.apple.com/jp/app/id6804716697",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/e3/13/82e3130a-4d7e-a03b-b5fb-bf39873bf69d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "tabiplan",
+   "genre": "kurashi",
+   "title": {
+    "ja": "旅プラン",
+    "en": "Tabi Plan"
+   },
+   "subtitle": {
+    "ja": "並べ替えるだけで旅程を自動計算",
+    "en": "Reorder to auto-plan your trip"
+   },
+   "segments": [
+    "travel"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6814762570",
+    "store_url": "https://apps.apple.com/jp/app/id6814762570",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/52/89/4452891c-7a2e-2e58-df72-e5e62154dcc2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "calendar_studio",
+   "genre": "kurashi",
+   "title": {
+    "ja": "カレンダー工房",
+    "en": "Calendar Studio"
+   },
+   "subtitle": {
+    "ja": "写真でカレンダーを印刷・壁紙に",
+    "en": "Print calendars from your photos"
+   },
+   "segments": [
+    "family",
+    "photo"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6816014639",
+    "store_url": "https://apps.apple.com/jp/app/id6816014639",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/2d/20/132d2051-0651-c5a7-2966-85170beb3fda/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "bookmarkwidget",
+   "genre": "kurashi",
+   "title": {
+    "ja": "AnyBookmark",
+    "en": "AnyBookmark"
+   },
+   "subtitle": {
+    "ja": "お気に入りをウィジェットで表示",
+    "en": "Bookmarks on your widget"
+   },
+   "segments": [
+    "utility"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6758948909",
+    "store_url": "https://apps.apple.com/jp/app/id6758948909",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/97/00/44970058-13fd-bb1b-b69d-c12d48617aec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 5.0,
+    "rating_count": 3
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "aiizakaya",
+   "genre": "kurashi",
+   "title": {
+    "ja": "AI居酒屋",
+    "en": "AI Izakaya"
+   },
+   "subtitle": {
+    "ja": "お酒にあうおつまみレシピ",
+    "en": "Snack recipes for drinks"
+   },
+   "segments": [
+    "adult",
+    "food"
+   ],
+   "exclude_hosts": [
+    "studycal",
+    "gicode",
+    "takken",
+    "touhan",
+    "ryokogyo_ai",
+    "aiword",
+    "aiwordml",
+    "aitalk",
+    "dungeonlang",
+    "aipickquiz",
+    "aidiary",
+    "trainquiz",
+    "airport_code_quiz",
+    "road_quiz",
+    "mapdequiz",
+    "jphotspring",
+    "aiessay",
+    "shukatsu",
+    "aicontinental",
+    "aihistorygame",
+    "aicounseling"
+   ],
+   "ios": {
+    "published": true,
+    "app_id": "6463077312",
+    "store_url": "https://apps.apple.com/jp/app/id6463077312",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/52/23/3752235f-767d-0fd3-6d18-f312f8f9fb22/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 4.7,
+    "rating_count": 7
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "aiisyoku",
+   "genre": "kurashi",
+   "title": {
+    "ja": "健康レシピ",
+    "en": "Healthy Recipe"
+   },
+   "subtitle": {
+    "ja": "要望通りの料理を提案",
+    "en": "Recipes on request"
+   },
+   "segments": [
+    "food",
+    "health"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6468958946",
+    "store_url": "https://apps.apple.com/jp/app/id6468958946",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/32/53/b43253e6-3e86-7c24-5b66-a3139f5b599b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "rating": 5.0,
+    "rating_count": 1
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "unlog",
+   "genre": "kurashi",
+   "title": {
+    "ja": "ちょうログ",
+    "en": "Unlog"
+   },
+   "subtitle": {
+    "ja": "お通じ記録で腸活サポート",
+    "en": "Gut health log"
+   },
+   "segments": [
+    "health"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6759916759",
+    "store_url": "https://apps.apple.com/jp/app/id6759916759",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/c1/46/07c14651-6408-f7b3-4f74-1adfcad4ae57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "rating": 5.0,
+    "rating_count": 1
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "curatorai",
+   "genre": "kurashi",
+   "title": {
+    "ja": "AI美術館",
+    "en": "Curator AI"
+   },
+   "subtitle": {
+    "ja": "アプリで名画と出会える",
+    "en": "Meet masterpieces"
+   },
+   "segments": [
+    "culture"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6797117753",
+    "store_url": "https://apps.apple.com/jp/app/id6797117753",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/8b/00/798b002d-49af-c77f-4324-9d5bf0a47386/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "hakamorireport",
+   "genre": "kurashi",
+   "title": {
+    "ja": "墓守レポート",
+    "en": "Hakamori Report"
+   },
+   "subtitle": {
+    "ja": "墓参り代行の報告書を最速で",
+    "en": "Grave-visit service reports"
+   },
+   "segments": [
+    "field_work"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6786332119",
+    "store_url": "https://apps.apple.com/jp/app/id6786332119",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/72/5c/90725cc5-3f93-73c5-1458-125c69ebdade/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.android.hakamorireport",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.hakamorireport",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/72/5c/90725cc5-3f93-73c5-1458-125c69ebdade/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+   }
+  },
+  {
+   "id": "genba_report_ai",
+   "genre": "kurashi",
+   "title": {
+    "ja": "作業報告AI",
+    "en": "Genba Report AI"
+   },
+   "subtitle": {
+    "ja": "写真とメモからAIが報告書を作成",
+    "en": "AI work reports from photos"
+   },
+   "segments": [
+    "field_work"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6816396331",
+    "store_url": "https://apps.apple.com/jp/app/id6816396331",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/98/db/1d98db2c-4479-1126-5e2d-58b888240126/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  },
+  {
+   "id": "tenken_daicho",
+   "genre": "kurashi",
+   "title": {
+    "ja": "フォークリフト点検簿",
+    "en": "Forklift Checklist"
+   },
+   "subtitle": {
+    "ja": "月次点検・3年保存",
+    "en": "Monthly inspection records"
+   },
+   "segments": [
+    "field_work",
+    "logistics"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6818697455",
+    "store_url": "https://apps.apple.com/jp/app/id6818697455",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/6f/32/fe6f32cf-6801-451c-1b26-c615dedffdd3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
+  }
+ ],
+ "featured": {
+  "studycal": [
+   "aiessay",
+   "gicode",
+   "takken"
+  ],
+  "gicode": [
+   "studycal",
+   "aiessay",
+   "aiword"
+  ],
+  "takken": [
+   "studycal",
+   "propertypricemirror",
+   "sumai_check"
+  ],
+  "touhan": [
+   "studycal",
+   "aiisyoku",
+   "unlog"
+  ],
+  "ryokogyo_ai": [
+   "studycal",
+   "airport_code_quiz",
+   "tabiplan"
+  ],
+  "aiword": [
+   "aitalk",
+   "aidiary",
+   "studycal"
+  ],
+  "aiwordml": [
+   "aitalk",
+   "aidiary",
+   "studycal"
+  ],
+  "aitalk": [
+   "aiwordml",
+   "aidiary",
+   "tabiplan"
+  ],
+  "dungeonlang": [
+   "aiword",
+   "aitalk",
+   "aicontinental"
+  ],
+  "aipickquiz": [
+   "studycal",
+   "mapdequiz",
+   "gicode"
+  ],
+  "aidiary": [
+   "ainovel",
+   "aitalk",
+   "aiwordml"
+  ],
+  "ainovel": [
+   "aihistorygame",
+   "aicontinental",
+   "aicounseling"
+  ],
+  "aiessay": [
+   "studycal",
+   "shukatsu",
+   "ainovel"
+  ],
+  "aihistorygame": [
+   "ainovel",
+   "aicontinental",
+   "road_quiz"
+  ],
+  "aicontinental": [
+   "aihistorygame",
+   "ainovel",
+   "dungeonlang"
+  ],
+  "aicounseling": [
+   "ainovel",
+   "aihistorygame",
+   "aicontinental"
+  ],
+  "aibusiness": [
+   "aicatchcopy",
+   "ainovel",
+   "shukatsu"
+  ],
+  "aicatchcopy": [
+   "aibusiness",
+   "ainote",
+   "genba_report_ai"
+  ],
+  "ainote": [
+   "aicatchcopy",
+   "aibusiness",
+   "genba_report_ai"
+  ],
+  "shukatsu": [
+   "aiessay",
+   "aibusiness",
+   "studycal"
+  ],
+  "trainquiz": [
+   "road_quiz",
+   "airport_code_quiz",
+   "mapdequiz"
+  ],
+  "airport_code_quiz": [
+   "road_quiz",
+   "trainquiz",
+   "ryokogyo_ai"
+  ],
+  "road_quiz": [
+   "trainquiz",
+   "airport_code_quiz",
+   "mapdequiz"
+  ],
+  "mapdequiz": [
+   "trainquiz",
+   "road_quiz",
+   "airport_code_quiz"
+  ],
+  "jphotspring": [
+   "tabiplan",
+   "road_quiz",
+   "trainquiz"
+  ],
+  "receiptorganizer": [
+   "aiisyoku",
+   "unlog",
+   "propertypricemirror"
+  ],
+  "propertypricemirror": [
+   "sumai_check",
+   "takken",
+   "receiptorganizer"
+  ],
+  "sumai_check": [
+   "propertypricemirror",
+   "takken",
+   "tabiplan"
+  ],
+  "tabiplan": [
+   "airport_code_quiz",
+   "jphotspring",
+   "sumai_check"
+  ],
+  "calendar_studio": [
+   "studycal",
+   "bookmarkwidget",
+   "tabiplan"
+  ],
+  "bookmarkwidget": [
+   "calendar_studio",
+   "tabiplan",
+   "studycal"
+  ],
+  "aiizakaya": [
+   "aiisyoku",
+   "unlog",
+   "tabiplan"
+  ],
+  "aiisyoku": [
+   "aiizakaya",
+   "unlog",
+   "receiptorganizer"
+  ],
+  "unlog": [
+   "aiisyoku",
+   "receiptorganizer",
+   "aidiary"
+  ],
+  "curatorai": [
+   "ainovel",
+   "aihistorygame",
+   "tabiplan"
+  ],
+  "hakamorireport": [
+   "genba_report_ai",
+   "tenken_daicho",
+   "aicatchcopy"
+  ],
+  "genba_report_ai": [
+   "tenken_daicho",
+   "hakamorireport",
+   "aicatchcopy"
+  ],
+  "tenken_daicho": [
+   "genba_report_ai",
+   "hakamorireport",
+   "receiptorganizer"
+  ]
+ }
+}
