@@ -82,5 +82,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/37/93/0d379376-27c0-3a3b-71f9-b5207d4b96ec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
     "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.tabiplan",
     "package": "biz.kazutaka.android.tabiplan"
+  },
+  {
+    "title": "作業報告AI",
+    "description": "写真とひとことメモから、AIがお客様向けの作業報告書PDFを作成！",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/dd/98/18dd9815-6cbe-dc4f-4d4c-815eb1983511/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.genba_report_ai",
+    "package": "biz.kazutaka.genba_report_ai"
   }
 ]
