@@ -89,5 +89,11 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/dd/98/18dd9815-6cbe-dc4f-4d4c-815eb1983511/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.genba_report_ai",
     "package": "biz.kazutaka.genba_report_ai"
+  },
+  {
+    "title": "Marked Days",
+    "description": "記念日・誕生日・旅行まで「あと何日」、付き合って「何日目」をホーム画面のウィジェットに表示",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.markeddays",
+    "package": "biz.kazutaka.android.markeddays"
   }
 ]

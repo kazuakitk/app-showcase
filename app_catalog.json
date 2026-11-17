@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-17T08:52:45+00:00",
+ "generated_at": "2026-11-17T12:58:26+00:00",
  "genres": [
   {
    "id": "manabu",
@@ -1199,6 +1199,32 @@
    "android": {
     "published": false
    }
+  },
+  {
+   "id": "markeddays",
+   "genre": "kurashi",
+   "title": {
+    "ja": "Marked Days",
+    "en": "Marked Days"
+   },
+   "subtitle": {
+    "ja": "記念日・イベントまで「あと何日」をウィジェットに",
+    "en": "Countdowns and day counters on your home screen"
+   },
+   "segments": [
+    "family",
+    "utility"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": false
+   },
+   "android": {
+    "published": true,
+    "package": "biz.kazutaka.android.markeddays",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.markeddays",
+    "icon_url": null
+   }
   }
  ],
  "featured": {
@@ -1352,7 +1378,7 @@
   "tabiplan": [
    "airport_code_quiz",
    "jphotspring",
-   "sumai_check"
+   "markeddays"
   ],
   "calendar_studio": [
    "studycal",
@@ -1408,6 +1434,11 @@
    "airport_code_quiz",
    "tabiplan",
    "ryokogyo_ai"
+  ],
+  "markeddays": [
+   "tabiplan",
+   "studycal",
+   "calendar_studio"
   ]
  }
 }
