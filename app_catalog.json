@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-17T12:58:26+00:00",
+ "generated_at": "2026-11-18T00:12:02+00:00",
  "genres": [
   {
    "id": "manabu",
@@ -922,7 +922,10 @@
     "rating_count": 2
    },
    "android": {
-    "published": false
+    "published": true,
+    "package": "biz.kazutaka.calendar_studio",
+    "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.calendar_studio",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/c3/24/cdc3247f-4f6f-c9c0-54ad-774214f5fbd8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
    }
   },
   {

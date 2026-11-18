@@ -96,5 +96,12 @@
     "icon_url": "https://play-lh.googleusercontent.com/R9pZLpdxbyXSf5UZdg_WWFIqsf3trVx6RYGzPJjuXBxly8YtO26WntMNCebplElHAlliUBGzwl7zOr6hWCVCAA=s100",
     "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.markeddays",
     "package": "biz.kazutaka.android.markeddays"
+  },
+  {
+    "title": "カレンダー工房",
+    "description": "好きな写真で1年分のカレンダー。祝日・六曜つきで、A4やハガキに印刷、スマホの壁紙にも",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/c3/24/cdc3247f-4f6f-c9c0-54ad-774214f5fbd8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.calendar_studio",
+    "package": "biz.kazutaka.calendar_studio"
   }
 ]
