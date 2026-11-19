@@ -2,6 +2,22 @@
   "version": 1,
   "items": [
     {
+      "id": "2026-11-20-share-fix",
+      "date": "2026-11-20",
+      "title": "「保護者と共有」が使えない不具合と修正版 1.2.22 のお知らせ",
+      "body": "バージョン 1.2.20・1.2.21 の iPhone 版で、「保護者と共有」を開くと「共有の情報を読み込めませんでした」と表示され、招待コードを出せない不具合が起きています。ご不便をおかけして申し訳ありません。\n\n修正版 1.2.22 を準備しています。App Store の審査が終わり次第配信しますので、届いたらアップデートしてください。\n\n勉強の記録や予定などのデータには影響ありません。\n\n11 月の受験直前応援（Pro+ の最初の 1 か月が無料）は、予定どおり 11 月 30 日まで続けます。",
+      "titleEn": "Share with a parent not working: fix coming in version 1.2.22",
+      "bodyEn": "In versions 1.2.20 and 1.2.21 on iPhone, opening Share with a parent shows \"Couldn't load the sharing info\" and an invite code cannot be created. We apologize for the inconvenience.\n\nWe are preparing version 1.2.22 with a fix. It will be available as soon as App Store review is complete, so please update when it arrives.\n\nYour study records, plans, and other data are not affected.",
+      "important": true,
+      "platforms": [
+        "ios"
+      ],
+      "minVersion": "1.2.20",
+      "maxVersion": "1.2.21",
+      "startAt": "2026-11-20",
+      "endAt": "2026-12-20"
+    },
+    {
       "id": "2026-11-01-exam-plus",
       "date": "2026-11-01",
       "title": "受験直前応援 Pro+ の最初の 1 か月が無料",
