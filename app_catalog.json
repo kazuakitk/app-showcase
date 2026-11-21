@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-18T00:12:02+00:00",
+ "generated_at": "2026-11-21T13:49:10+00:00",
  "genres": [
   {
    "id": "manabu",
@@ -52,7 +52,7 @@
     "published": true,
     "app_id": "6785962096",
     "store_url": "https://apps.apple.com/jp/app/id6785962096",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/12/7f/1b127f9d-2ab4-8011-239e-ba5f7a9b3e81/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/e4/3e/c0e43ed7-cc71-871e-a86a-38f48082391b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "rating": 4.5,
     "rating_count": 13
    },
@@ -60,7 +60,7 @@
     "published": true,
     "package": "biz.kazutaka.studycal",
     "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.studycal",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/12/7f/1b127f9d-2ab4-8011-239e-ba5f7a9b3e81/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/e4/3e/c0e43ed7-cc71-871e-a86a-38f48082391b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
    }
   },
   {
@@ -113,7 +113,7 @@
     "published": true,
     "app_id": "6793407772",
     "store_url": "https://apps.apple.com/jp/app/id6793407772",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/64/51/60645120-365d-ef8e-0ee3-59cfef21076b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/37/2d/fa372d61-f5b1-c264-861a-3cace2d1e79b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
     "rating": 0.0,
     "rating_count": 0
    },
@@ -141,7 +141,7 @@
     "published": true,
     "app_id": "6799977998",
     "store_url": "https://apps.apple.com/jp/app/id6799977998",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/ab/08/8dab08e2-6634-2060-1196-8d37021aeb37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/ed/4d/6ced4d6b-e602-f759-b677-b08f89cf67cc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
     "rating": 0.0,
     "rating_count": 0
    },
@@ -169,7 +169,7 @@
     "published": true,
     "app_id": "6797151126",
     "store_url": "https://apps.apple.com/jp/app/id6797151126",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/6a/25/c36a25d7-cba0-e271-3981-b8a8cdb866bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/27/6e/13276eb1-f788-c9a4-af8c-75be81e742ad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
     "rating": 0.0,
     "rating_count": 0
    },
@@ -390,7 +390,7 @@
     "published": true,
     "app_id": "6467877945",
     "store_url": "https://apps.apple.com/jp/app/id6467877945",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/62/7f/d6627f3d-11ed-f890-9519-130acf5dd31c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/ac/ae/c1acaefb-6978-296e-3c1b-dc242518e682/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
     "rating": 4.4,
     "rating_count": 169
    },
@@ -398,7 +398,7 @@
     "published": true,
     "package": "biz.kazutaka.android.ainovel",
     "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.ainovel",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/62/7f/d6627f3d-11ed-f890-9519-130acf5dd31c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/ac/ae/c1acaefb-6978-296e-3c1b-dc242518e682/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
    }
   },
   {
@@ -421,7 +421,7 @@
     "published": true,
     "app_id": "6466455974",
     "store_url": "https://apps.apple.com/jp/app/id6466455974",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/49/3f/a0493fff-2bec-df30-cf86-7592820f932d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/c8/93/08c893e9-1e62-ea6f-1875-7f5c8ea6ef17/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
     "rating": 4.7,
     "rating_count": 280
    },
@@ -429,7 +429,7 @@
     "published": true,
     "package": "biz.kazutaka.android.aiessay",
     "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.aiessay",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/49/3f/a0493fff-2bec-df30-cf86-7592820f932d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/c8/93/08c893e9-1e62-ea6f-1875-7f5c8ea6ef17/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
    }
   },
   {
@@ -453,8 +453,8 @@
     "app_id": "6742843491",
     "store_url": "https://apps.apple.com/jp/app/id6742843491",
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/89/08/1e8908d0-4449-218e-dd91-845694e1ecdf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "rating": 4.7,
-    "rating_count": 23
+    "rating": 4.6,
+    "rating_count": 24
    },
    "android": {
     "published": true,
@@ -683,15 +683,15 @@
     "published": true,
     "app_id": "6785523641",
     "store_url": "https://apps.apple.com/jp/app/id6785523641",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/0f/ba/5e0fbab5-4ff4-b51f-fe0f-02885960fa25/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/0e/2d/0b0e2d8a-477c-3090-dc2e-401edff2dbaf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "rating": 5.0,
-    "rating_count": 1
+    "rating_count": 2
    },
    "android": {
     "published": true,
     "package": "biz.kazutaka.airportCodeQuiz",
     "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.airportCodeQuiz",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/0f/ba/5e0fbab5-4ff4-b51f-fe0f-02885960fa25/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/0e/2d/0b0e2d8a-477c-3090-dc2e-401edff2dbaf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
    }
   },
   {
@@ -714,7 +714,7 @@
     "published": true,
     "app_id": "6808960762",
     "store_url": "https://apps.apple.com/jp/app/id6808960762",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/98/7c/a1987c9d-5444-2bed-8ae8-b480b93b5711/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/ca/e1/f5cae169-9723-7592-3446-ffc7fcf8a9fb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
     "rating": 5.0,
     "rating_count": 2
    },
@@ -722,7 +722,7 @@
     "published": true,
     "package": "biz.kazutaka.road_quiz",
     "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.road_quiz",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/98/7c/a1987c9d-5444-2bed-8ae8-b480b93b5711/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/ca/e1/f5cae169-9723-7592-3446-ffc7fcf8a9fb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
    }
   },
   {
@@ -746,8 +746,8 @@
     "app_id": "6450009191",
     "store_url": "https://apps.apple.com/jp/app/id6450009191",
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/c5/68/2dc56826-3113-8106-3449-47740de603c6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-    "rating": 4.3,
-    "rating_count": 6
+    "rating": 4.4,
+    "rating_count": 7
    },
    "android": {
     "published": false
@@ -802,8 +802,8 @@
     "app_id": "6790333959",
     "store_url": "https://apps.apple.com/jp/app/id6790333959",
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/20/e5/c820e55d-05cd-9893-04af-c3530760be73/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-    "rating": 2.5,
-    "rating_count": 2
+    "rating": 3.3,
+    "rating_count": 3
    },
    "android": {
     "published": false
@@ -1232,9 +1232,9 @@
  ],
  "featured": {
   "studycal": [
-   "aiessay",
    "gicode",
-   "ainovel",
+   "wordcatch",
+   "aipickquiz",
    "aiword",
    "mapdequiz"
   ],
@@ -1299,9 +1299,9 @@
    "aicounseling"
   ],
   "aiessay": [
-   "studycal",
    "shukatsu",
-   "ainovel"
+   "ainote",
+   "aicatchcopy"
   ],
   "aihistorygame": [
    "ainovel",
