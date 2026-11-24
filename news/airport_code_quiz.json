@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "n20261124-1427",
+      "date": "2026-11-24",
+      "title": "空旅日記 Web をはじめました",
+      "body": "乗った飛行機を記録すると、地球儀に航路と訪れた国が描かれていく日記です。ブラウザでそのまま使えます。",
+      "titleEn": "Meet Soratabi Web",
+      "bodyEn": "Log the flights you have taken and watch your routes and countries fill a 3D globe. Works right in your browser.",
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "startAt": "2026-11-24",
+      "endAt": "2026-12-31",
+      "linkUrl": "https://sora.kazutaka.biz/",
+      "linkLabel": "空旅日記を開く",
+      "linkLabelEn": "Open Soratabi"
+    }
+  ]
+}
