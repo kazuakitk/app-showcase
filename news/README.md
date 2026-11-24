@@ -10,7 +10,7 @@ GitHub Pages（`https://kazuakitk.github.io/app-showcase/news/...`）からア�
 | `videos.json` | YouTube の新着動画（全アプリ共通のポップアップ） | DevDeck の `ops/tools/video_feed.py --push`（手で書かない） |
 | `videos_block.txt` | 新着動画に出さない videoId（1 行 1 本） | 手で書く |
 
-読んでいるアプリ（2026-11-24）: `studycal`（勉強カレンダー）、`airport_code_quiz`（空港地図）、`road_quiz`（道路王）、`calendar_studio`（カレンダー工房）。Flutter の共通部品は `flutter-shared` の `kazu_feed`。
+読んでいるアプリ（2026-11-24）: `studycal`（勉強カレンダー）、`airport_code_quiz`（空港地図）、`road_quiz`（道路王）、`calendar_studio`（カレンダー工房）、`aiessay`（小論先生）、`ainovel`（文豪はしる）、`trainquiz`（駅地図）、`aihistorygame`（歴史転生）、`tabiplan`（旅プラン）、`aicontinental`（無限大陸）。共通部品は `flutter-shared` の `kazu_feed`（Flutter）と `kazu_feed/native`（Swift・Kotlin）。
 
 ## お知らせ（`<アプリ>.json`）
 
