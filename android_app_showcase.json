@@ -103,5 +103,12 @@
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/c3/24/cdc3247f-4f6f-c9c0-54ad-774214f5fbd8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
     "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.calendar_studio",
     "package": "biz.kazutaka.calendar_studio"
+  },
+  {
+    "title": "軽貨物 業務記録、黒ナンバーの業務記録をGPSで",
+    "description": "業務の記録・点呼・日常点検をGPSとかんたんな入力で作り、国交省の様式例どおりのPDFに！",
+    "icon_url": "https://play-lh.googleusercontent.com/vfQrygwdvXYbD4z1uajeTB3nR8WJ2-L8icEtNAbgzSq-84cgId42LTDaeKK_V8iRX62K2cFZLFbFeF6kCXu-ug=s100",
+    "play_store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.keika_gyomu_kiroku",
+    "package": "biz.kazutaka.keika_gyomu_kiroku"
   }
 ]
