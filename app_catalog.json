@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-25T01:34:52+00:00",
+ "generated_at": "2026-11-25T13:31:18+00:00",
  "genres": [
   {
    "id": "manabu",
@@ -1254,6 +1254,34 @@
     "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.keika_gyomu_kiroku",
     "icon_url": null
    }
+  },
+  {
+   "id": "shinkansen_eta",
+   "genre": "kurashi",
+   "title": {
+    "ja": "新幹線あと何分",
+    "en": "Shinkansen ETA"
+   },
+   "subtitle": {
+    "ja": "次の駅まであと何分かをGPSで表示",
+    "en": "Minutes to your next stop, by GPS"
+   },
+   "segments": [
+    "travel",
+    "rail"
+   ],
+   "exclude_hosts": [],
+   "ios": {
+    "published": true,
+    "app_id": "6832414891",
+    "store_url": "https://apps.apple.com/jp/app/id6832414891",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/9b/b7/739bb765-4b3e-cb3e-b798-02886f413304/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+    "rating": 0.0,
+    "rating_count": 0
+   },
+   "android": {
+    "published": false
+   }
   }
  ],
  "featured": {
@@ -1473,6 +1501,11 @@
    "tenken_daicho",
    "genba_report_ai",
    "receiptorganizer"
+  ],
+  "shinkansen_eta": [
+   "trainquiz",
+   "tabiplan",
+   "road_quiz"
   ]
  }
 }
