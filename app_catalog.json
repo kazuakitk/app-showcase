@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-25T13:31:18+00:00",
+ "generated_at": "2026-11-26T00:17:04+00:00",
  "genres": [
   {
    "id": "manabu",
@@ -53,8 +53,8 @@
     "app_id": "6785962096",
     "store_url": "https://apps.apple.com/jp/app/id6785962096",
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/d4/06/01d40607-1951-e66f-c1e9-d33492ec198c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-    "rating": 4.5,
-    "rating_count": 15
+    "rating": 4.6,
+    "rating_count": 16
    },
    "android": {
     "published": true,
@@ -390,7 +390,7 @@
     "published": true,
     "app_id": "6467877945",
     "store_url": "https://apps.apple.com/jp/app/id6467877945",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/6c/0e/cf6c0ec4-49b7-f3c3-e6fa-258ec08f66de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/ca/19/64ca19f5-f25e-f3cc-968c-444861625dfa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
     "rating": 4.4,
     "rating_count": 170
    },
@@ -398,7 +398,7 @@
     "published": true,
     "package": "biz.kazutaka.android.ainovel",
     "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.ainovel",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/6c/0e/cf6c0ec4-49b7-f3c3-e6fa-258ec08f66de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/ca/19/64ca19f5-f25e-f3cc-968c-444861625dfa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
    }
   },
   {
@@ -421,7 +421,7 @@
     "published": true,
     "app_id": "6466455974",
     "store_url": "https://apps.apple.com/jp/app/id6466455974",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/74/ce/3074ce1a-644a-9810-ad07-51a0b70328be/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/75/16/e7751649-208b-8255-251f-f5abb5985088/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
     "rating": 4.7,
     "rating_count": 280
    },
@@ -429,7 +429,7 @@
     "published": true,
     "package": "biz.kazutaka.android.aiessay",
     "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.aiessay",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/74/ce/3074ce1a-644a-9810-ad07-51a0b70328be/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/75/16/e7751649-208b-8255-251f-f5abb5985088/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
    }
   },
   {
@@ -483,15 +483,15 @@
     "published": true,
     "app_id": "6745148207",
     "store_url": "https://apps.apple.com/jp/app/id6745148207",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/0f/f0/450ff0de-5cb8-74be-4447-2585227eafff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/e1/18/3ae118c1-5ca3-0a82-b95c-a0a9e3b20336/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
     "rating": 4.3,
-    "rating_count": 49
+    "rating_count": 50
    },
    "android": {
     "published": true,
     "package": "biz.kazutaka.android.aicontinental",
     "store_url": "https://play.google.com/store/apps/details?id=biz.kazutaka.android.aicontinental",
-    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/0f/f0/450ff0de-5cb8-74be-4447-2585227eafff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/e1/18/3ae118c1-5ca3-0a82-b95c-a0a9e3b20336/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
    }
   },
   {
@@ -918,8 +918,8 @@
     "app_id": "6816014639",
     "store_url": "https://apps.apple.com/jp/app/id6816014639",
     "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/57/99/24579985-e888-1208-1068-cb8615eb8bcb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-    "rating": 5.0,
-    "rating_count": 3
+    "rating": 4.0,
+    "rating_count": 4
    },
    "android": {
     "published": true,
@@ -1395,7 +1395,7 @@
   "trainquiz": [
    "road_quiz",
    "airport_code_quiz",
-   "mapdequiz"
+   "shinkansen_eta"
   ],
   "airport_code_quiz": [
    "road_quiz",
